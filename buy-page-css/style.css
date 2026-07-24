@@ -190,7 +190,7 @@ ul li{
     list-style: none;
 }
 
-.footer-links ul li:hover{
+.footer-links ul li a:hover{
     color: #ff9dd6;
 }
 
