@@ -235,6 +235,10 @@ ul li{
     list-style: none;
 }
 
+.footer-links ul li:hover{
+    color: #ff9dd6;
+}
+
 
 /* 
 ===========================================================
