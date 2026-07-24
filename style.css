@@ -106,7 +106,7 @@ header{
     display: flex;
     overflow-x: auto;
     gap: 20px;
-    padding: 10px 2px;
+    padding: 10px 5px;
     scrollbar-width: none;
 }
 
